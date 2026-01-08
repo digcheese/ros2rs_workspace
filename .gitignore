@@ -2,4 +2,4 @@ build/
 install/
 log/
 src/ros2/
-src/ros2-rust
+src/ros2-rust/
